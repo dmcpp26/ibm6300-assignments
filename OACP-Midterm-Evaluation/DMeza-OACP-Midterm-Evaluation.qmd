@@ -1,0 +1,48 @@
+---
+title: "Group Member Contribution Evaluation"
+author: "Danielle Meza"
+date: today
+format:
+  html:
+    embed-resources: true
+    theme: cosmo
+editor: visual
+execute:
+  freeze: auto
+  echo: false
+  warning: false
+---
+
+**Name:** Danielle Meza                          **Date:** July 2026
+
+**Group Name / Project Name:** CPP Farm Store Omnichannel Consulting Project — IBM 6300
+
+------------------------------------------------------------------------
+
+Please evaluate your group members (including you) from 1 to 100% scale. If you believe that a member equally contributes to the group project output submitted, give them 100%. If you believe that a member did not do his or her fair share, assign a percentage less than 100%. The evaluation will be confidential. If a person receives grades that are less than 100% from more than one person, the average of peer evaluation will be weighted to group grade to determine an individual grade. Each student must evaluate his/her peers in the absence of the other members to guarantee confidentiality and accuracy. Each student must enclose his/her own evaluation form in an envelope, seal it, write the word, "confidential" across the seal and submit it directly to me to assure confidentiality. Do not ask your friends to submit it for you. Only personal, direct submission will be accepted. Group grade won't be assigned to you until you submit it. Further, if you think there was a group leader who contributed to your group's success greatly above and beyond regular group members, please identify them below and make a comment. If there is a consensus, the MVP may receive up to 10% of the group's score on top of the group score.
+
+------------------------------------------------------------------------
+
+| \#  | Member Name            | Grade (%) | MVP (yes/no) |
+|:----|:-----------------------|:---------:|:------------:|
+| 1   | Julie Diaz             |    90%    |      No      |
+| 2   | Cecilia Espina         |    90%    |     YES      |
+| 3   | Angela Qian            |    80%    |      No      |
+| 4   | Danielle Meza *(self)* |    90%    |      No      |
+| 5   |                        |           |              |
+
+: Group Member Grades {.striped}
+
+------------------------------------------------------------------------
+
+**Briefly make comments on contributions of your teammates to the project. If you gave less than a perfect grade, please justify your evaluation below.**
+
+**Julie Diaz(90%):** Julie led the research and background section of the project, contributing the introduction, store background, target customer segment identification, and customer goals analysis for both CPP Students and Local Community Members in GP1. She also delivered Slides 1–3 of the proposal presentation and the product selection list for GP3. Her work was consistently organized and delivered on time, providing the foundational research that the rest of the group built upon.
+
+**Cecilia Espina(90%):** Cecilia completed the six-stage customer journey map for both target segments in GP1 — one of the most detailed and labor-intensive deliverables in the project. She also contributed the Business and Project Objectives slides for the proposal and built the product feed spreadsheet with all required Google Merchant Center fields along with rewritten product titles for GP3. Her work was thorough, detailed, and submitted on time.
+
+**Angela Qain(80%):** Angela was assigned the pain points and omnichannel opportunities section of GP1, Slides 8–10 of the proposal presentation including final slide deck assembly, and the feed quality diagnosis and retail media strategy for GP3. While her assigned sections were ultimately completed, Angela consistently missed internal group deadlines throughout the midterm period. This created a compressed timeline for the rest of the group to review, revise, and finalize deliverables before submission, placing additional pressure on other members during the assembly process.
+
+**Danielle Meza — Self (90%):** My contributions included the visual journey map built in RStudio using ggplot2, QMD setup and compilation for GP1, GitHub repo management and GitHub Pages publishing, Slides 6–7 of the proposal presentation with speaker scripts, all ten product descriptions for the GP3 product feed, and the image readiness assessment for all ten products. I met all internal group deadlines for my assigned sections and supported the group's final QMD compilation and submission process.
+
+------------------------------------------------------------------------

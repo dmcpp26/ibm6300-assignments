@@ -1,0 +1,253 @@
+---
+title: "Field Trip and Perceptual Map"
+format: html
+editor: visual
+embed-resources: true
+---
+
+## Competitive Landscape
+
+The CPP Farm Store operates in a relatively sheltered competitive environment within its immediate geographic radius. According to the store manager, a nearby **Stater Bros.** location — which previously represented a direct grocery competitor — has permanently closed, effectively reducing head-to-head competition in the surrounding area.
+
+The manager identified **Trader Joe's** as the store's primary perceived competitor. This is a meaningful comparison: both stores cultivate a distinct, curated identity rather than competing on breadth of assortment. Trader Joe's attracts a loyal customer base through unique private-label products, affordable pricing, and a community-oriented atmosphere — qualities the Farm Store shares in spirit, though through a very different lens rooted in agriculture and campus identity.
+
+------------------------------------------------------------------------
+
+## Product Assortment Strategy
+
+### Product Categories
+
+The Farm Store carries a focused assortment centered on fresh, locally grown, and campus-produced items. Observed product categories during our visit include:
+
+-   **Fresh produce** — grown on CPP's agricultural land (apples, oranges, blueberries, and other seasonal fruit observed during the visit)
+-   **Ready-to-eat items** — pre-made sandwiches and salads (e.g., Turkey Pesto Ciabatta, Italian Godfather, Croissant Sandwich)
+-   **Beverages** — fresh-squeezed juice, energy drinks, kombuchas, and canned beverages
+-   **Dairy & refrigerated snacks** — yogurt parfaits, fruit cups
+-   **Specialty / artisan items** — honey, wine, jams, plants, locally-made knick knacks
+
+::: callout-note
+**Manager highlight:** Fresh-squeezed **orange juice** was identified as the store's most popular and recognizable product — a signature item with strong customer loyalty.
+:::
+
+### Width of Product Lines
+
+The store's product width is **narrow** relative to conventional grocery competitors. Rather than stocking multiple brands across dozens of categories, the Farm Store concentrates on a curated, farm-direct selection consistent with a specialty or niche retail model.
+
+### Depth of Product Lines
+
+Within individual categories, depth is also **limited**. The selection reflects what is seasonally available from campus agricultural operations rather than a standardized year-round assortment. This is a feature of the farm-to-shelf model rather than a limitation — seasonal availability reinforces authenticity.
+
+### Unique / Farm Store Brands
+
+The Farm Store's most distinctive differentiator is the **CPP-origin provenance** of its products. Items grown, raised, or produced on campus carry an authenticity that no competitor can replicate. The fresh-squeezed orange juice is the flagship example — a Farm Store original with demonstrated brand recognition and repeat-purchase loyalty.
+
+### Comparison with Competitor (Trader Joe's)
+
+The Farm Store and Trader Joe's share a commitment to curated, distinctive products rather than mass-market breadth. However, they diverge significantly across key assortment dimensions:
+
+| Dimension | CPP Farm Store | Trader Joe's |
+|:---|:---|:---|
+| Product origin | Campus-grown, hyper-local | Private label, global sourcing |
+| Assortment width | Very narrow | Moderate |
+| Assortment depth | Shallow, seasonal | Deep, consistent year-round |
+| Brand uniqueness | One-of-a-kind campus products | Exclusive TJ's private label |
+| Unique flagship | Fresh-squeezed orange juice | Multiple rotating private-label items |
+
+: Product Assortment Comparison {.striped .hover}
+
+------------------------------------------------------------------------
+
+## Pricing Strategy
+
+From visible price tags observed during the visit, sample Farm Store prices include:
+
+-   Fuji Apples — **\$2.49/lb**
+-   Blueberries — **\$3.99**
+-   Fruit Cups — **\$5.49**
+-   Yogurt Parfait — **\$6.54**
+-   Turkey Pesto Ciabatta sandwich — **\~\$6.49**
+-   Italian Godfather sandwich — **\$6.99**
+
+Based on the store's mission as a campus-affiliated educational retail operation, pricing appears **competitive with or slightly below** Trader Joe's for comparable fresh produce items. For specialty items like fresh-squeezed OJ, pricing may reflect the artisanal, small-batch nature of production.
+
+------------------------------------------------------------------------
+
+## Service
+
+The Farm Store offers a **personalized, community-oriented service experience** consistent with its campus identity. Interactions appear informal and relationship-based rather than transactional. The manager's direct engagement — including her awareness of which products resonate most with customers — suggests a store culture built on familiarity and local pride.
+
+### Comparison with Trader Joe's
+
+Trader Joe's is well-known for friendly, high-energy customer service enforced as a brand standard across all locations. The Farm Store's service is similarly warm but more intimate in scale — closer to a farmers' market interaction than a retail chain encounter. Customers who value personal connection over efficiency may actively prefer the Farm Store experience.
+
+------------------------------------------------------------------------
+
+## Store Atmosphere
+
+### Overall Impression
+
+The store projects a **family-friendly, farm-to-table aesthetic** rooted in its agricultural identity. The atmosphere is casual, approachable, and distinctly non-commercial. The exterior features a **classic red barn design** with the "Cal Poly Pomona Farm Store" sign prominently displayed, flanked by greenery and a welcoming entrance — immediately communicating the farm identity before a customer steps inside.
+
+### Observed Atmospheric Elements
+
+| Element | Observation |
+|:---|:---|
+| Exterior design | Red barn facade, natural landscaping, open gate entrance with welcome signage |
+| Interior décor | signage is farm themed, with wooden/farm country them displays |
+| Lighting | fluorecent and warm, with a sun roof |
+| Music | Family Friendly, upbeat |
+| Layout & organization | Manager acknowledged **inventory organization is a current challenge**; the store is actively working to improve its setup to better serve the community |
+| Staffing level | handful visible staff, light friendly engagement |
+
+: Store Atmospheric Observations {.striped .hover}
+
+### Comparison with Trader Joe's
+
+Trader Joe's invests heavily in atmospheric consistency — themed décor, upbeat music, and well-organized shelving are brand standards enforced chain-wide. The Farm Store's atmosphere is more organic and less polished, which can read as either **charmingly authentic** or **operationally underdeveloped** depending on the customer's expectations. Closing the inventory and organization gap — as the manager explicitly acknowledged as a priority — could significantly enhance the in-store experience without sacrificing the store's genuine farm identity.
+
+------------------------------------------------------------------------
+
+## Jobs to Be Done
+
+Based on the manager's input and the store's positioning, the major motivations driving customer visits fall into three categories:
+
+### Functional
+
+-   Purchase **fresh, locally grown produce** not easily available at conventional grocery stores
+-   Buy the Farm Store's **signature fresh-squeezed orange juice** — a specific, loyalty-driving product that brings customers back
+-   Access **farm-direct food** with shorter supply chains and greater transparency about origin
+
+### Emotional
+
+-   Feel **connected to the CPP campus community** and its agricultural mission
+-   Support **student learning and university programs** through everyday purchases
+-   Experience the satisfaction of **buying locally and sustainably**
+
+### Social
+
+-   Share the Farm Store with **family** — the family-friendly atmosphere actively invites multi-generational visits
+-   Introduce **friends or neighbors** to the campus's unique food offerings
+-   Participate in a **community-rooted retail experience** that feels meaningfully different from chain grocery shopping
+
+### Comparison with Trader Joe's
+
+Trader Joe's customers are primarily motivated by **value, product discovery, and convenience**. The Farm Store serves a more specific, values-driven motivation set — customers come with intention. This is a strength if the store consistently delivers on its signature products; it is a vulnerability if stock is unpredictable or the shopping experience is frustrating due to layout challenges.
+
+------------------------------------------------------------------------
+
+```{r}
+#| label: perceptual-map
+#| echo: false
+#| message: false
+#| warning: false
+#| fig-cap: "Figure 1: Perceptual Map — CPP Farm Store vs. Competitors"
+#| fig-height: 6
+#| fig-width: 8
+
+library(ggplot2)
+library(ggrepel)
+
+# Brand positions
+brands <- data.frame(
+  brand = c("CPP Farm Store", "Trader Joe's", "Stater Bros.\n(closed)"),
+  breadth = c(1.5, 5.5, 8.5),   # X: Narrow (1) to Wide (10)
+  local   = c(9.0, 4.0, 1.5),   # Y: Low (1) to High (10)
+  color   = c("#028090", "#E67E22", "#95A5A6"),
+  size    = c(5, 4, 3)
+)
+
+ggplot(brands, aes(x = breadth, y = local)) +
+
+  # Quadrant shading
+  annotate("rect", xmin = 0, xmax = 5.5, ymin = 5.5, ymax = 11,
+           fill = "#E8F4F8", alpha = 0.5) +
+  annotate("rect", xmin = 5.5, xmax = 11, ymin = 5.5, ymax = 11,
+           fill = "#FFF8E1", alpha = 0.5) +
+  annotate("rect", xmin = 0, xmax = 5.5, ymin = 0, ymax = 5.5,
+           fill = "#F0F4FF", alpha = 0.5) +
+  annotate("rect", xmin = 5.5, xmax = 11, ymin = 0, ymax = 5.5,
+           fill = "#FCF0F0", alpha = 0.5) +
+
+  # Quadrant labels
+  annotate("text", x = 2.0, y = 10.5, label = "Narrow & Local",
+           size = 3, color = "#64748B", fontface = "italic") +
+  annotate("text", x = 8.5, y = 10.5, label = "Wide & Local",
+           size = 3, color = "#64748B", fontface = "italic") +
+  annotate("text", x = 2.0, y = 0.5,  label = "Narrow & Generic",
+           size = 3, color = "#64748B", fontface = "italic") +
+  annotate("text", x = 8.5, y = 0.5,  label = "Wide & Generic",
+           size = 3, color = "#64748B", fontface = "italic") +
+
+  # Axis reference lines
+  geom_hline(yintercept = 5.5, linetype = "dashed",
+             color = "#94A3B8", linewidth = 0.5) +
+  geom_vline(xintercept = 5.5, linetype = "dashed",
+             color = "#94A3B8", linewidth = 0.5) +
+
+  # Brand points
+  geom_point(aes(color = brand, size = size), show.legend = FALSE) +
+  scale_color_manual(values = c(
+    "CPP Farm Store"     = "#028090",
+    "Trader Joe's"       = "#E67E22",
+    "Stater Bros.\n(closed)" = "#95A5A6"
+  )) +
+  scale_size_identity() +
+
+  # Brand labels — ggrepel keeps them from overlapping
+  geom_label_repel(
+    aes(label = brand, color = brand),
+    size          = 3.5,
+    fontface      = "bold",
+    box.padding   = 0.6,
+    point.padding = 0.4,
+    segment.size  = 0.4,
+    show.legend   = FALSE
+  ) +
+
+  # Axis labels & limits
+  scale_x_continuous(
+    name   = "Assortment Breadth",
+    limits = c(0, 11),
+    breaks = c(1, 5.5, 10),
+    labels = c("Narrow", "", "Wide")
+  ) +
+  scale_y_continuous(
+    name   = "Local / Farm Identity",
+    limits = c(0, 11),
+    breaks = c(1, 5.5, 10),
+    labels = c("Low", "", "High")
+  ) +
+
+  # Theme
+  theme_minimal(base_size = 12) +
+  theme(
+    plot.title      = element_text(face = "bold", color = "#1E3A5F", size = 13),
+    plot.subtitle   = element_text(color = "#64748B", size = 10),
+    axis.title      = element_text(face = "bold", color = "#1E3A5F"),
+    axis.text       = element_text(color = "#64748B"),
+    panel.grid      = element_blank(),
+    panel.border    = element_rect(color = "#D0DCE8", fill = NA),
+    plot.background = element_rect(fill = "#FAFCFE", color = NA)
+  ) +
+
+  labs(
+    title    = "Perceptual Map: CPP Farm Store vs. Competitors",
+    subtitle = "Axes: Assortment Breadth (X) × Local / Farm Identity (Y)"
+  )
+```
+
+------------------------------------------------------------------------
+
+## Key Recommendations
+
+The Farm Store's most pressing opportunity is to **close the gap between its authentic identity and its operational execution**. The product positioning and community story are genuinely differentiated — the orange juice alone represents a loyalty anchor no competitor can replicate. However, the manager's acknowledgment of inventory disorganization suggests customers may currently experience friction that undermines the store's otherwise strong appeal.
+
+**Priority recommendations:**
+
+1.  **Improve inventory organization** to reduce in-store friction and make the shopping experience feel as intentional as the products themselves.
+2.  **Leverage the orange juice as a signature marketing hook** to drive repeat visits and word-of-mouth among the CPP community and surrounding neighborhoods.
+3.  **Implement light atmospheric improvements** — consistent signage, seasonal displays, clear product labels — that reinforce the farm identity without significant investment.
+4.  **Clarify pricing communication** relative to competitors so customers understand the value of locally grown, campus-produced goods.
+5.  **Strengthen the family and community positioning** through events, seasonal promotions, or campus partnerships that make the store a destination, not just a transaction.
+
+------------------------------------------------------------------------
