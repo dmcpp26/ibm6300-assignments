@@ -33,7 +33,7 @@ This report documents the product catalog development for **Milo's Bakery**, an 
 Milo's Bakery's Shopify catalog launches with **ten products** organized across three collections: Core Biscuits, Bundles & Gift Boxes, and Seasonal & Functional Treats.
 
 | \# | Product Title | Collection | Price |
-|:--------------|:-----------------------|:-------------------|--------------:|
+|:---|:---|:---|---:|
 | 1 | Banana Biscuits — 6 oz bag | Core Biscuits | \$12.99 |
 | 2 | Blueberry Biscuits — 6 oz bag | Core Biscuits | \$12.99 |
 | 3 | Hazel Biscuits — 6 oz bag | Core Biscuits | \$13.99 |
@@ -248,9 +248,9 @@ Working through the Milo's Bakery product catalog has reinforced several lessons
 ## Appendix {.unnumbered}
 
 | Resource | Link |
-|:--------------------------------------------|:--------------------------|
+|:---|:---|
 | GitHub Repository | <https://github.com/dmcpp26/ibm6300-assignments> |
-| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments> |
+| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments/ITP-Assign3/milobkry_ITP.html> |
 | Shopify Admin | <https://admin.shopify.com> |
 
 : Assignment Links {.striped .hover}
