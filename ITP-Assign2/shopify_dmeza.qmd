@@ -202,7 +202,7 @@ Setting up Milo's Bakery on Shopify has directly sharpened my thinking about the
 | Resource | Link |
 |:-----------------------------------|:-----------------------------------|
 | GitHub Repository | <https://github.com/dmcpp26/ibm6300-assignments> |
-| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments/ITP-Assign2/Meza_Danielle-ITP-Assign2.html> |
+| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments/ITP-Assign2/shopify_dmeza.html> |
 | Shopify Admin | <https://admin.shopify.com> |
 
 ------------------------------------------------------------------------
