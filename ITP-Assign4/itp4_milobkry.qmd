@@ -33,7 +33,7 @@ This report documents the collections, navigation structure, and merchandising l
 Milo's Bakery is organized into **four collections** in Shopify, each designed to serve a distinct customer need and browsing intent. See @tbl-collections for a summary of all four collections and the products assigned to each.
 
 | Collection | Description | Products Included | \# of Products |
-|:-----------------|:-----------------|:-----------------|:------------------:|
+|:---|:---|:---|:--:|
 | Core Biscuits | Everyday single-flavor treat bags | Banana, Blueberry, Hazel, Paw, Mix Plate | 5 |
 | Bundles & Gift Boxes | Curated multi-product gift sets | Morning Box, Sweet Treat Box, Full Milo's Experience | 3 |
 | Seasonal & Functional | Limited-edition and health-focused treats | Birthday Cake Biscuits, Peanut Butter & Pumpkin | 2 |
@@ -140,9 +140,8 @@ This is an automatically populated Shopify collection that displays all active p
 
 The Milo's Bakery main navigation menu is organized into six items, designed to give every customer a clear and direct path to what they are looking for within two clicks or fewer.
 
-
 | Menu Item | Destination | Primary Audience |
-|:-----------------------|:-----------------------|:-----------------------|
+|:---|:---|:---|
 | Shop all | All Products collection | New visitors, explorers |
 | Core biscuits | Core Biscuits collection | Repeat buyers, flavor-specific shoppers |
 | Gift boxes | Bundles & Gift Boxes collection | Gift shoppers |
@@ -191,9 +190,9 @@ The product organization work completed for Milo's Bakery surfaces several direc
 ## Appendix {.unnumbered}
 
 | Resource | Link |
-|:--------------------------------------------|:--------------------------|
+|:---|:---|
 | GitHub Repository | <https://github.com/dmcpp26/ibm6300-assignments> |
-| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments> |
+| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments/ITP-Assign4/itp4_milobkry.html> |
 | Shopify Admin | <https://admin.shopify.com> |
 
 : Assignment Links {.striped .hover}
