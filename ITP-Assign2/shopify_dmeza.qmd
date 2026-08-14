@@ -51,7 +51,7 @@ The store will launch with five core biscuit flavors and expand into seasonal, w
 Milo's Bakery's primary target customer is a **health-conscious millennial or Gen Z pet owner** who treats their dog as a full member of the family. They read ingredient labels on their own food and have started applying the same scrutiny to what their dog eats. They are willing to pay a premium for quality and are drawn to brands that feel authentic, small-batch, and story-driven.
 
 | Characteristic | Description |
-|:---|:---|
+|:-----------------------------------|:-----------------------------------|
 | Age | 24–42 years old |
 | Lifestyle | Wellness-oriented, pet-centered, community-minded |
 | Shopping behavior | Shops online, follows pet brands on social media, values transparency |
@@ -154,7 +154,7 @@ The Paw Biscuit is Milo's Bakery's hero product and the recommended starting poi
 The following three product categories are planned for future launch as Milo's Bakery grows:
 
 | Category | Description | Target Launch |
-|:---|:---|:--:|
+|:-----------------------|:-----------------------|:----------------------:|
 | 🎃 Seasonal Biscuits | Limited-edition holiday and seasonal flavors (e.g., Pumpkin Spice Fall Biscuit, Holiday Peppermint Crunch) | Season-by-season |
 | 🦷 Dental & Wellness Biscuits | Biscuits formulated to support dental hygiene — designed to help reduce plaque and freshen breath naturally | Future Expansion |
 | 💪 Hip & Joint Biscuits | Functional biscuits infused with glucosamine, turmeric, and omega-3s to support mobility and joint health in aging or active dogs | Future Expansion |
@@ -200,9 +200,9 @@ Setting up Milo's Bakery on Shopify has directly sharpened my thinking about the
 ## Appendix {.unnumbered}
 
 | Resource | Link |
-|:---|:---|
+|:-----------------------------------|:-----------------------------------|
 | GitHub Repository | <https://github.com/dmcpp26/ibm6300-assignments> |
-| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments> |
+| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments/ITP-Assign2/Meza_Danielle-ITP-Assign2.html> |
 | Shopify Admin | <https://admin.shopify.com> |
 
 ------------------------------------------------------------------------
