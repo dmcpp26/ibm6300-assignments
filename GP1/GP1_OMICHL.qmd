@@ -382,6 +382,8 @@ See @tbl-painpoints for the full prioritized summary.
 
 The ggplot2 visualization below synthesizes the full six-stage journey for both target segments. The map displays customer touchpoints per stage for each segment (teal = CPP Students, navy = Local Community Members), with pain points shown in amber below and omnichannel opportunities in green above. The map is designed to be read left to right, following the customer from first discovery through sustained loyalty.
 
+![](images/clipboard-243312368.png){width="912" height="485"}
+
 ```{r}
 #| label: journey-map
 #| echo: false
@@ -452,7 +454,7 @@ ggplot() +
   theme(
     plot.background  = element_rect(fill = col_bg, color = NA),
     panel.background = element_rect(fill = col_bg, color = NA),
-    plot.title    = element_text(face = "bold", size = 18,
+    plot.title    = element_text(face = "bold", size = 20,
                                  color = "#1E3A5F", hjust = 0.5,
                                  margin = margin(b = 4)),
     plot.subtitle = element_text(size = 8.5, color = "#64748B",
@@ -466,7 +468,7 @@ ggplot() +
             fill = "#1E3A5F", color = NA) +
   geom_text(data = data.frame(x = 1:n, s = stages),
             aes(x = x, y = 2.80, label = s),
-            size = 2.6, fontface = "bold", color = "#FFFFFF",
+            size = 3.0, fontface = "bold", color = "#FFFFFF",
             lineheight = 0.85) +
 
   # student lane background
@@ -481,7 +483,7 @@ ggplot() +
 
   # touchpoint text
   geom_text(data = tp, aes(x = x, y = y, label = lab),
-            size = 2.1, color = "#1A2340", lineheight = 0.88) +
+            size = 2.5, color = "#1A2340", lineheight = 0.88) +
 
   # arrows students
   geom_segment(
@@ -503,10 +505,10 @@ ggplot() +
 
   # segment labels left
   annotate("text", x = 0.46, y = 2.0,
-           label = "CPP\nStudents", size = 2.5, fontface = "bold",
+           label = "CPP\nStudents", size = 3.0, fontface = "bold",
            color = col_s, hjust = 1, lineheight = 0.85) +
   annotate("text", x = 0.46, y = 1.0,
-           label = "Local\nCommunity", size = 2.5, fontface = "bold",
+           label = "Local\nCommunity", size = 3.0, fontface = "bold",
            color = col_c, hjust = 1, lineheight = 0.85) +
 
   # pain point row
@@ -514,10 +516,10 @@ ggplot() +
             aes(xmin = x - 0.44, xmax = x + 0.44, ymin = 0.08, ymax = 0.48),
             fill = col_p, color = NA, alpha = 0.22) +
   geom_text(data = pain, aes(x = x, y = 0.28, label = lab),
-            size = 2.0, color = "#7A4F00", fontface = "bold",
+            size = 2.5, color = "#7A4F00", fontface = "bold",
             lineheight = 0.85) +
   annotate("text", x = 0.46, y = 0.28,
-           label = "Pain\nPoints", size = 2.2, fontface = "bold",
+           label = "Pain\nPoints", size = 2.5, fontface = "bold",
            color = "#7A4F00", hjust = 1, lineheight = 0.85) +
 
   # opportunity row
@@ -525,25 +527,25 @@ ggplot() +
             aes(xmin = x - 0.44, xmax = x + 0.44, ymin = 2.95, ymax = 3.35),
             fill = col_o, color = NA, alpha = 0.18) +
   geom_text(data = opp, aes(x = x, y = 3.15, label = lab),
-            size = 2.0, color = "#155724", fontface = "bold",
+            size = 2.5, color = "#155724", fontface = "bold",
             lineheight = 0.85) +
   annotate("text", x = 0.46, y = 3.15,
-           label = "Oppor-\ntunities", size = 2.2, fontface = "bold",
+           label = "Oppor-\ntunities", size = 3, fontface = "bold",
            color = "#155724", hjust = 1, lineheight = 0.85) +
 
   # legend
   annotate("rect", xmin = 1.5, xmax = 1.85, ymin = -0.18, ymax = -0.05,
            fill = col_s, alpha = 0.7) +
   annotate("text", x = 1.9, y = -0.115, label = "CPP Students",
-           size = 2.4, color = col_s, hjust = 0, fontface = "bold") +
+           size = 3, color = col_s, hjust = 0, fontface = "bold") +
   annotate("rect", xmin = 3.2, xmax = 3.55, ymin = -0.18, ymax = -0.05,
            fill = col_c, alpha = 0.7) +
   annotate("text", x = 3.6, y = -0.115, label = "Local Community Members",
-           size = 2.4, color = col_c, hjust = 0, fontface = "bold") +
+           size = 3, color = col_c, hjust = 0, fontface = "bold") +
   annotate("rect", xmin = 5.2, xmax = 5.55, ymin = -0.18, ymax = -0.05,
            fill = col_p, alpha = 0.6) +
   annotate("text", x = 5.6, y = -0.115, label = "Pain Points",
-           size = 2.4, color = "#7A4F00", hjust = 0, fontface = "bold") +
+           size = 3, color = "#7A4F00", hjust = 0, fontface = "bold") +
 
   scale_x_continuous(limits = c(0, n + 0.55)) +
   scale_y_continuous(limits = c(-0.25, 3.45)) +
@@ -598,7 +600,7 @@ Based on the revenue impact and customer volume of each pain point, the recommen
 
 | Resource | Link |
 |:--------------------------------------------|:--------------------------|
-| Group GitHub Repository | <https://github.com/dmcpp26/ibm6300-assignments> |
+| Group GitHub Repository | <https://dmcpp26.github.io/ibm6300-assignments/GP1/GP1_OMICHL.html> |
 | GitHub Pages — Live HTML Report | <https://dmcpp26.github.io/ibm6300-assignments/GP1_OMICHL.html> |
 | CPP Farm Store Website | <https://www.cpp.edu/farmstore> |
 | CPP Farm Gifts Shopify Store | <https://bzgshk-14.myshopify.com> |

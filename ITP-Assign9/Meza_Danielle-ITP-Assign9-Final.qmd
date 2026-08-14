@@ -200,7 +200,7 @@ With more time, I would reshoot all ten products on a clean, consistent white or
 
 | Resource | Link |
 |:---|:---|
-| GitHub Repository | <https://github.com/dmcpp26/ibm6300-assignments> |
+| GitHub Repository | <https://dmcpp26.github.io/ibm6300-assignments/ITP-Assign9/Meza_Danielle-ITP-Assign9-Final.html> |
 | GitHub Pages — Portfolio | <https://dmcpp26.github.io/ibm6300-assignments/> |
 | Milo's Bakery Shopify Store | <https://admin.shopify.com> |
 | Google Analytics | <https://analytics.google.com> |
