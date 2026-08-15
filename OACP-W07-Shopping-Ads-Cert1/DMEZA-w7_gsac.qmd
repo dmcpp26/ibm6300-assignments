@@ -103,7 +103,7 @@ Google Merchant Center is the central hub where retailers upload, manage, and mo
 ### Key Shopping Ad Requirements
 
 | Requirement | Why It Matters |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | Accurate product title | Google matches titles to search queries — vague titles miss relevant searches |
 | High-quality product image | The image is the first thing shoppers see — low quality images reduce click-through rate |
 | Current price | Price must match the landing page exactly — mismatches cause disapproval |
@@ -162,13 +162,12 @@ The key insight from these modules is that Shopping Ad performance is determined
 ## Appendix {.unnumbered}
 
 | Resource | Link |
-|:--------------------------------------------|:--------------------------|
+|:---|:---|
 | GitHub Repository | <https://github.com/dmcpp26/ibm6300-assignments> |
-| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments> |
+| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments/OACP-W07-Shopping-Ads-Cert1/DMEZA-w7_gsac.html> |
 | Google Skillshop | <https://skillshop.google.com> |
 | Module 1 — Grow Your Retail Business | <https://skillshop.exceedlms.com/student/activity/14197-grow-your-retail-business-with-google> |
 | Modules 2 & 3 — Shopping Ads Path | <https://skillshop.exceedlms.com/student/path/69612-learn-the-basics-of-shopping-ads> |
 | Google Merchant Center | <https://merchants.google.com> |
 
 ------------------------------------------------------------------------
-

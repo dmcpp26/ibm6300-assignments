@@ -46,3 +46,5 @@ Please evaluate your group members (including you) from 1 to 100% scale. If you 
 **Danielle Meza — Self (90%):** My contributions included the visual journey map built in RStudio using ggplot2, QMD setup and compilation for GP1, GitHub repo management and GitHub Pages publishing, Slides 6–7 of the proposal presentation with speaker scripts, all ten product descriptions for the GP3 product feed, and the image readiness assessment for all ten products. I met all internal group deadlines for my assigned sections and supported the group's final QMD compilation and submission process.
 
 ------------------------------------------------------------------------
+
+<https://dmcpp26.github.io/ibm6300-assignments/OACP-Midterm-Evaluation/DMeza-OACP-Midterm-Evaluation.html>

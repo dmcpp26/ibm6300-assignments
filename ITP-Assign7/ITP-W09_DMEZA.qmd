@@ -106,9 +106,9 @@ Connecting GA4 to the CPP Farm Store's Shopify storefront would give the store m
 ## Appendix {.unnumbered}
 
 | Resource | Link |
-|:---|:---|
+|:-----------------------------------|:-----------------------------------|
 | GitHub Repository | <https://github.com/dmcpp26/ibm6300-assignments> |
-| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments> |
+| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments/ITP-Assign7/ITP-W09_DMEZA.html> |
 | Google Analytics | <https://analytics.google.com> |
 | Shopify Admin | <https://admin.shopify.com> |
 | GA4 Help — Connect Shopify | <https://support.google.com/analytics/answer/10447272> |

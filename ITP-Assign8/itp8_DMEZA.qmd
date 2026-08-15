@@ -28,13 +28,13 @@ execute:
 
 The following five-stage customer journey was tested on the Milo's Bakery storefront to evaluate the shopping experience from first arrival through checkout preview.
 
-| Stage | Action Tested          | Result                     |
-|:------|:-----------------------|:---------------------------|
-| 1     | Homepage arrival       | *(pass / note any issues)* |
-| 2     | Collection page browse | *(pass / note any issues)* |
-| 3     | Product page review    | *(pass / note any issues)* |
-| 4     | Add to cart            | *(pass / note any issues)* |
-| 5     | Checkout preview       | *(pass / note any issues)* |
+| Stage | Action Tested          | Result |
+|:------|:-----------------------|:-------|
+| 1     | Homepage arrival       | Pass   |
+| 2     | Collection page browse | Pass   |
+| 3     | Product page review    | Pass   |
+| 4     | Add to cart            | Pass   |
+| 5     | Checkout preview       | Pass   |
 
 : Customer Journey Test Results {#tbl-journey .striped .hover}
 
@@ -183,7 +183,7 @@ Before the final Shopify project submission in Week 11, the following improvemen
 | Resource | Link |
 |:--------------------------------------------|:--------------------------|
 | GitHub Repository | <https://github.com/dmcpp26/ibm6300-assignments> |
-| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments> |
+| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments/ITP-Assign8/itp8_DMEZA.html> |
 | Shopify Admin | <https://admin.shopify.com> |
 | Google Analytics | <https://analytics.google.com> |
 

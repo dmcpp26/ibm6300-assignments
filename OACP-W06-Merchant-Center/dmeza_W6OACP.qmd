@@ -182,7 +182,7 @@ Finally, CPP Farm Store should start with its **strongest, most visual products*
 | Resource | Link |
 |:---|:---|
 | GitHub Repository | <https://github.com/dmcpp26/ibm6300-assignments> |
-| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments> |
+| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments/OACP-W06-Merchant-Center/dmeza_W6OACP.html> |
 | Google Merchant Center | <https://merchants.google.com> |
 | Shopify Google & YouTube Channel | <https://apps.shopify.com/google> |
 | Google Product Taxonomy | <https://www.google.com/basepages/producttype/taxonomy-with-ids.en-US.txt> |

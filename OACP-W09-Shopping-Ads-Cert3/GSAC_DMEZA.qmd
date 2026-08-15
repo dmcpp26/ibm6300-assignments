@@ -79,9 +79,9 @@ The Google Shopping Ads Certification is valid for one year from the date of com
 ## Appendix {.unnumbered}
 
 | Resource | Link |
-|:--------------------------------------------|:--------------------------|
+|:---|:---|
 | GitHub Repository | <https://github.com/dmcpp26/ibm6300-assignments> |
-| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments> |
+| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments/OACP-W09-Shopping-Ads-Cert3/GSAC_DMEZA.html> |
 | Google Skillshop | <https://skillshop.google.com> |
 | Google Shopping Ads Certification Path | <https://skillshop.exceedlms.com/student/path/69612-learn-the-basics-of-shopping-ads> |
 | Certification Certificate Link | PASTE YOUR CERTIFICATE URL HERE |

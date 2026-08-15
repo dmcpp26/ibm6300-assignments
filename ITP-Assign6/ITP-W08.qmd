@@ -195,7 +195,7 @@ For CPP Farm Store, the most important trust signals are those that address the 
 | Resource | Link |
 |:---|:---|
 | GitHub Repository | <https://github.com/dmcpp26/ibm6300-assignments> |
-| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments> |
+| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments/ITP-Assign6/ITP-W08.html> |
 | Shopify Admin | <https://admin.shopify.com> |
 
 : Assignment Links {.striped .hover}

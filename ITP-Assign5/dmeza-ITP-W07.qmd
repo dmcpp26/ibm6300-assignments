@@ -165,9 +165,9 @@ The storefront design work completed for Milo's Bakery surfaces several direct l
 ## Appendix {.unnumbered}
 
 | Resource | Link |
-|:--------------------------------------------|:--------------------------|
+|:---|:---|
 | GitHub Repository | <https://github.com/dmcpp26/ibm6300-assignments> |
-| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments> |
+| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments/ITP-Assign5/dmeza-ITP-W07.html> |
 | Shopify Admin | <https://admin.shopify.com> |
 
 : Assignment Links {.striped .hover}

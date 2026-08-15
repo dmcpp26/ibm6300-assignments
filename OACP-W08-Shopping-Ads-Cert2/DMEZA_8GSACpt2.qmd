@@ -87,7 +87,7 @@ The campaign objective determines everything that follows — which campaign typ
 ### Shopping Campaign Types
 
 | Campaign Type | Best For | Control Level | Automation |
-|:----------------|:----------------|:-----------------:|:-----------------:|
+|:---|:---|:--:|:--:|
 | Standard Shopping | Retailers with strong product data who want manual control | High | Low |
 | Performance Max | Retailers ready to let Google optimize across all channels | Low | High |
 
@@ -142,7 +142,7 @@ A Google Shopping campaign for CPP Farm Store should support the following custo
 Based on the campaign objective and product priorities, CPP Farm Store should track the following KPIs:
 
 | KPI | Why It Matters |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | Click-through rate (CTR) | Measures whether product titles and images are compelling enough to earn a click |
 | Product page views | Indicates whether shoppers are engaging with the gift basket listings after clicking |
 | Pickup order conversions | The primary success metric — did the Shopping click result in an online pickup order? |
@@ -166,9 +166,9 @@ The most important insight from these modules for CPP Farm Store is that campaig
 ## Appendix {.unnumbered}
 
 | Resource | Link |
-|:--------------------------------------------|:--------------------------|
+|:---|:---|
 | GitHub Repository | <https://github.com/dmcpp26/ibm6300-assignments> |
-| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments> |
+| GitHub Pages (Live Report) | <https://dmcpp26.github.io/ibm6300-assignments/OACP-W08-Shopping-Ads-Cert2/DMEZA_8GSACpt2.html> |
 | Google Skillshop | <https://skillshop.google.com> |
 | Google Shopping Ads Path | <https://skillshop.exceedlms.com/student/path/69612-learn-the-basics-of-shopping-ads> |
 | Google Merchant Center | <https://merchants.google.com> |
