@@ -1,0 +1,47 @@
+---
+title: "Group Member Contribution Evaluation — Final Report"
+author: "Danielle Meza"
+date: today
+format:
+  html:
+    embed-resources: true
+    theme: cosmo
+    toc: false
+editor: visual
+execute:
+  freeze: auto
+  echo: false
+  warning: false
+---
+
+**Name:** Danielle Meza                          **Date:** August 2026
+
+**Group Name / Project Name:** CPP Farm Store Omnichannel Consulting Project — IBM 6300
+
+------------------------------------------------------------------------
+
+Please evaluate your group members (including you) from 1 to 100% scale. If you believe that a member equally contributes to the group project output submitted, give them 100%. If you believe that a member did not do his or her fair share, assign a percentage less than 100%. The evaluation will be confidential. If a person receives grades that are less than 100% from more than one person, the average of peer evaluation will be weighted to group grade to determine an individual grade. Each student must evaluate his/her peers in the absence of the other members to guarantee confidentiality and accuracy. Each student must enclose his/her own evaluation form in an envelope, seal it, write the word, "confidential" across the seal and submit it directly to me to assure confidentiality. Do not ask your friends to submit it for you. Only personal, direct submission will be accepted. Group grade won't be assigned to you until you submit it. Further, if you think there was a group leader who contributed to your group's success greatly above and beyond regular group members, please identify them below and make a comment. If there is a consensus, the MVP may receive up to 10% of the group's score on top of the group score.
+
+------------------------------------------------------------------------
+
+| \#  | Member Name            | Grade (%) | MVP (yes / no) |
+|:----|:-----------------------|:---------:|:--------------:|
+| 1   | Julie Diaz             |    95%    |       No       |
+| 2   | Cecilia Espina         |    95%    |      Yes       |
+| 3   | Angela Qian            |    75%    |       No       |
+| 4   | Danielle Meza *(self)* |    90%    |       No       |
+| 5   |                        |           |                |
+
+: Group Member Grades {.striped}
+
+------------------------------------------------------------------------
+
+**Briefly make comments on contributions of your teammates to the project. If you gave less than a perfect grade, please justify your evaluation below.**
+
+**Julie Diaz (95%):** Julie served as the primary research lead for the group throughout the semester. Her contributions spanned nearly every major deliverable: she led the introduction, store background research, and target customer segment identification for GP1; contributed the cover slide, table of contents, and retailer background slide for the proposal presentation; and led the channel selection rationale and product selection justification for GP3. Julie was consistently organized, reliable, and delivered her sections on time. Her foundational research on the CPP Farm Store's background, competitive landscape, and customer segments provided the context that all other group members built upon. The 5% deduction from a perfect score reflects the natural variation in depth and output across a large collaborative project rather than any specific deficiency in her work.
+
+**Cecilia Espina (95%):** Cecilia was responsible for the most technically demanding individual deliverable in the project — the six-stage customer journey map for both target segments in GP1. She also contributed the Business Objectives and Project Objectives slides for the proposal presentation, and for GP3 she built the product feed spreadsheet with all required Google Merchant Center fields and rewrote all ten product titles to meet Google's searchability and formatting standards. Cecilia's work was consistently thorough, detailed, and submitted on time. The 5% deduction reflects the same standard applied across the group.
+
+**Angela Qian (75%):** Angela was assigned the pain points and omnichannel opportunities section of GP1, the mock deliverables, milestones and timeline, and appendix slides for the proposal, final assembly of the full slide deck, and the feed quality diagnosis and retail media strategy for GP3. While Angela's assigned sections were ultimately completed, she consistently missed internal group deadlines throughout the semester. This created a compressed timeline for the rest of the group to review, compile, and finalize deliverables before submission, and placed additional burden on other members during the assembly process. The work submitted was generally acceptable in quality, but the pattern of missed deadlines meaningfully affected the group's collaborative process and overall workflow. This evaluation reflects that impact honestly while acknowledging that contributions were made.
+
+**Danielle Meza — Self-Evaluation (90%):** My contributions to the group project across the full semester included: the visual journey map built in RStudio using ggplot2 for GP1, QMD setup and document compilation for GP1, GitHub repository management and GitHub Pages publishing for all group deliverables, Slides 6 and 7 of the proposal presentation with speaker scripts, all ten product descriptions for the GP3 product feed, the image readiness assessment for all ten products, the omnichannel channel integration section and all five campaign tactics for GP4, all three creative assets and the full creative brief with AI documentation for GP5, the Looker Studio dashboard design and simulated data setup for GP6, and the campaign plan sections for GP7. I met all internal group deadlines for my assigned sections and supported the group's QMD compilation and submission process throughout the semester. The 10% self-deduction reflects the GitHub submission issue I encountered this semester — I discovered late in the course that my individual assignment files were not successfully uploading to the repository, which I have since corrected by properly setting up GitHub Desktop and pushing all files. This was a learning curve issue and not a reflection of the quality or timeliness of the work itself.
