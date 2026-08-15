@@ -128,7 +128,7 @@ The following journey maps cover all six stages of the customer experience for b
 **Stage 1: Awareness**
 
 | Element | Detail |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | **Doing** | Walking past the red barn on their way to the College of Agriculture, seeing a flyer in a campus hallway, hearing a mention from a classmate or professor, or stumbling across an Instagram post tagged on campus |
 | **Thinking** | "Wait — CPP has a farm store? I walk past that barn all the time and never knew what it was." |
 | **Feeling** | Mildly curious, a little surprised — the store is physically close but mentally invisible |
@@ -140,7 +140,7 @@ The following journey maps cover all six stages of the customer experience for b
 **Stage 2: Consideration**
 
 | Element | Detail |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | **Doing** | Searching "CPP Farm Store" on Google or Instagram to see what it sells, asking a classmate who has been there, checking if it's open during their free period, looking for prices |
 | **Thinking** | "Is this worth the walk? Is it affordable? What's actually fresh right now? Do they take Bronco Bucks?" |
 | **Feeling** | Skeptical but interested — price and convenience are the two biggest filters at this stage |
@@ -152,7 +152,7 @@ The following journey maps cover all six stages of the customer experience for b
 **Stage 3: Purchase**
 
 | Element | Detail |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | **Doing** | Stopping in during a gap between classes, browsing the refrigerated section for juice or produce, checking if Bronco Bucks work at the register, making a quick in-store purchase |
 | **Thinking** | "Do I have time before my next class? Is there actually something I want here today? Is the line going to be long?" |
 | **Feeling** | Rushed — time pressure is the dominant emotion at this stage for students |
@@ -164,7 +164,7 @@ The following journey maps cover all six stages of the customer experience for b
 **Stage 4: Fulfillment / Pickup**
 
 | Element | Detail |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | **Doing** | Receiving produce, juice, or a seasonal item at the counter; carrying it to class or home; consuming it the same day |
 | **Thinking** | "Was this worth stopping for? Does it actually taste as good as it looked? Did I get what I expected?" |
 | **Feeling** | Satisfied if the product delivers on its campus-grown promise; deflated if shelves were sparse or the experience felt disorganized |
@@ -176,7 +176,7 @@ The following journey maps cover all six stages of the customer experience for b
 **Stage 5: Post-Purchase Engagement**
 
 | Element | Detail |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | **Doing** | Posting a photo of the juice or produce on Instagram, telling a roommate or classmate, mentioning it in an agriculture or food class |
 | **Thinking** | "That was actually really good — and it felt cool to be buying something that my own school grows." |
 | **Feeling** | Pleasantly surprised, a little proud — the campus identity connection adds emotional value beyond the product itself |
@@ -188,7 +188,7 @@ The following journey maps cover all six stages of the customer experience for b
 **Stage 6: Loyalty and Repeat Purchase**
 
 | Element | Detail |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | **Doing** | Planning weekly produce or juice runs into their campus schedule, watching for seasonal drops, telling friends from other majors about the store |
 | **Thinking** | "This is just where I get my produce now — it's fresh, it's on campus, and I know the money supports something I care about." |
 | **Feeling** | Comfortable, loyal, invested in the campus identity the store represents |
@@ -203,7 +203,7 @@ The following journey maps cover all six stages of the customer experience for b
 **Stage 1: Awareness**
 
 | Element | Detail |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | **Doing** | Searching Google for "local produce near Pomona," "farm fresh gift baskets," or "things to do near Cal Poly Pomona"; seeing a Google Maps listing while searching for nearby food; hearing about the store from a neighbor or colleague who visited campus |
 | **Thinking** | "There's a farm store connected to Cal Poly Pomona? I had no idea that existed — what do they actually sell?" |
 | **Feeling** | Intrigued by the novelty of a university-operated farm store; skeptical about whether it is worth a dedicated trip |
@@ -215,7 +215,7 @@ The following journey maps cover all six stages of the customer experience for b
 **Stage 2: Consideration**
 
 | Element | Detail |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | **Doing** | Browsing the CPP Farm Store website and Shopify store to see what is available and at what price; comparing mentally to Trader Joe's or a farmers market; looking for CPP-exclusive products that justify a campus trip |
 | **Thinking** | "Is this actually different from Trader Joe's? What can I get here that I can't get anywhere else? Is the gift basket worth ordering online?" |
 | **Feeling** | Cautiously interested — the campus-grown origin story is compelling, but they need proof before committing to a trip or an online order |
@@ -227,7 +227,7 @@ The following journey maps cover all six stages of the customer experience for b
 **Stage 3: Purchase**
 
 | Element | Detail |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | **Doing** | Placing a gift basket order online through Shopify for in-store pickup; OR driving to campus to browse and purchase in person for the first time |
 | **Thinking** | "Is this the right gift? Can I customize it? Is the pickup process going to be easy? Will it look as good as the photos?" |
 | **Feeling** | Engaged and motivated if the online ordering process is clear; frustrated and likely to abandon if pickup instructions are unclear or the checkout is confusing |
@@ -239,7 +239,7 @@ The following journey maps cover all six stages of the customer experience for b
 **Stage 4: Fulfillment / Pickup**
 
 | Element | Detail |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | **Doing** | Arriving at the Farm Store to pick up a gift basket order; meeting staff; seeing the store for the first time if it is their first visit |
 | **Thinking** | "Does the basket look as good as I imagined? Is the quality worth the price? Is pickup as easy as the website said it would be?" |
 | **Feeling** | Excited if the product exceeds expectations — the physical store experience and the quality of the basket packaging directly determine whether this person becomes a repeat customer or a one-time buyer |
@@ -251,7 +251,7 @@ The following journey maps cover all six stages of the customer experience for b
 **Stage 5: Post-Purchase Engagement**
 
 | Element | Detail |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | **Doing** | Giving the gift basket to its recipient; telling a neighbor or colleague about the store; leaving a Google review; posting on Instagram |
 | **Thinking** | "I'm really glad I found this place — and the story behind it makes the gift feel more meaningful than something I could have bought at a grocery store." |
 | **Feeling** | Satisfied and community-minded — the campus connection and student-made story add emotional value that makes the purchase feel purposeful |
@@ -263,7 +263,7 @@ The following journey maps cover all six stages of the customer experience for b
 **Stage 6: Loyalty and Repeat Purchase**
 
 | Element | Detail |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | **Doing** | Returning for seasonal specialty items (holiday baskets, harvest produce), subscribing to the email list, becoming a regular gift source for occasions throughout the year |
 | **Thinking** | "This is my go-to for thoughtful local gifts now — I know the quality is there and the story behind it always lands with whoever receives it." |
 | **Feeling** | Loyal, proud of their local-sourcing choice, invested in the CPP mission |
@@ -365,7 +365,7 @@ The following section identifies the specific friction points that currently pre
 ### Pain Points and Opportunities Summary
 
 | Priority | Pain Point | Stage Blocked | Segment | Omnichannel Fix | Measurable Outcome |
-|:-----------|:-----------|:-----------|:-----------|:-----------|:-----------|
+|:---|:---|:---|:---|:---|:---|
 | 1 | No digital discoverability | Awareness → Consideration | Community | Google Business Profile + Shopping listings | Profile views, Shopping CTR |
 | 2 | Missing basic info online | Awareness → Consideration | Students | Shopify homepage + Instagram + Maps update | Mobile sessions, Maps direction clicks |
 | 3 | No online ordering | Consideration → Purchase | Both | Shopify catalog + pickup ordering + BYOB form | Add-to-cart rate, pickup order completions |
@@ -599,7 +599,7 @@ Based on the revenue impact and customer volume of each pain point, the recommen
 ## Appendix {.unnumbered}
 
 | Resource | Link |
-|:--------------------------------------------|:--------------------------|
+|:---|:---|
 | Group GitHub Repository | <https://dmcpp26.github.io/ibm6300-assignments/GP1/GP1_OMICHL.html> |
 | GitHub Pages — Live HTML Report | <https://dmcpp26.github.io/ibm6300-assignments/GP1_OMICHL.html> |
 | CPP Farm Store Website | <https://www.cpp.edu/farmstore> |
