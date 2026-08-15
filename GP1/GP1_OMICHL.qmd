@@ -601,7 +601,7 @@ Based on the revenue impact and customer volume of each pain point, the recommen
 | Resource | Link |
 |:---|:---|
 | Group GitHub Repository | <https://dmcpp26.github.io/ibm6300-assignments/GP1/GP1_OMICHL.html> |
-| GitHub Pages — Live HTML Report | <https://dmcpp26.github.io/ibm6300-assignments/GP1_OMICHL.html> |
+| GitHub Pages — Live HTML Report | <https://dmcpp26.github.io/ibm6300-assignments/GP1/GP1_OMICHL.html> |
 | CPP Farm Store Website | <https://www.cpp.edu/farmstore> |
 | CPP Farm Gifts Shopify Store | <https://bzgshk-14.myshopify.com> |
 
